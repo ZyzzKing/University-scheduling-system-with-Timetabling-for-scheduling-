@@ -1,0 +1,15 @@
+{
+    "dataset_name": "University Classroom & Laboratory Timetabling Dataset",
+    "version": "7.0.0",
+    "benchmark_source": "PATAT / ITC Benchmark Adaptation",
+    "files": {
+        "dataset_excel": "Classroom_Booking_Dataset_V7.xlsx",
+        "sheets": [
+            "README",
+            "Users",
+            "Classes",
+            "Laboratories",
+            "Schedule"
+        ]
+    }
+}
